@@ -2,6 +2,12 @@ body {
 	padding-top: 50px;
 	color: #2d2d2d;
 	font-family: 'Mali', cursive;
+	background-image: url("https://www.costcotravel.com/content/_legacy/shared/images/vacationPackages/tahiti/boraBora/SouthPacific-Tahiti-BoraBora.jpg")
+}
+
+.clicky{
+background-color: blue;
+
 }
 .starter-template {
   padding: 40px 15px;
